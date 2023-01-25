@@ -1,7 +1,13 @@
 # training-git-2023
 
-## Nama : Deri Darmawan, S.Pd
-## Alamat : Jl. Babakan Sari
+Hari Rabu, 25 Januari 2023
+Pukul 10.00
+
+## Nama : Reinhard C
+## Alamat : jalan rumah fuad
+
+## Nama : Muhammad Ghafwandi Al-Fadhil
+## Alamat : Margaasih
 
 ## Nama : Fuad
 ## Alamat : Lewat rumah Renghat
@@ -17,5 +23,3 @@
 
 ## Nama: Deni Setiawan
 ## Alamat: Sariwangi
-
-
