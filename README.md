@@ -3,6 +3,12 @@
 ## Nama : Deri Darmawan, S.Pd
 ## Alamat : Jl. Babakan Sari
 
+## Nama : Muhammad Ghafwandi Al-Fadhil
+## Alamat : Margaasih
+
+## Nama : Fuad
+## Alamat : Lewat rumah Renghat
+
 ## Nama	: Yogi Jablay
 ## Alamat : Jalan-gkung
 
@@ -14,4 +20,5 @@
 
 ## Nama: Deni Setiawan
 ## Alamat: Sariwangi
+
 
