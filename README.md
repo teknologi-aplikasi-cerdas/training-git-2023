@@ -3,6 +3,12 @@
 ## Nama : Reinhard C
 ## Alamat : jalan rumah fuad
 
+## Nama : Muhammad Ghafwandi Al-Fadhil
+## Alamat : Margaasih
+
+## Nama : Fuad
+## Alamat : Lewat rumah Renghat
+
 ## Nama	: Yogi Jablay
 ## Alamat : Jalan-gkung
 
@@ -14,5 +20,3 @@
 
 ## Nama: Deni Setiawan
 ## Alamat: Sariwangi
-
-
