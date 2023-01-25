@@ -3,7 +3,6 @@
 ## Nama : Deri Darmawan, S.Pd
 ## Alamat : Jl. Babakan Sari
 
-
 ## Nama : Fuad
 ## Alamat : Lewat rumah Renghat
 
