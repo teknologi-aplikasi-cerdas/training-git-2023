@@ -1,5 +1,9 @@
 # training-git-2023
 
+
+## Nama : Deri Darmawan, S.Pd
+## Alamat : Jl. Babakan Sari
+
 ## Nama : Reinhard C
 ## Alamat : jalan rumah fuad
 
