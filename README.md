@@ -3,6 +3,9 @@
 ## Nama : Deri Darmawan, S.Pd
 ## Alamat : Jl. Babakan Sari
 
+## Nama	: Yogi Jablay
+## Alamat : Jalan-gkung
+
 ## Nama : Gunarso
 ## Alamat : Jalan Abadi 2 No.16
 
