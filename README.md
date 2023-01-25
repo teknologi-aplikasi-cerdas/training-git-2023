@@ -1,5 +1,8 @@
 # training-git-2023
 
+Hari Rabu, 25 Januari 2023
+Pukul 10.00
+
 ## Nama : Reinhard C
 ## Alamat : jalan rumah fuad
 
